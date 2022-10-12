@@ -1,5 +1,7 @@
-Nama : Muhammad Rifqi Ma'ruf
-NRP : 5025221060
+Nama : Muhammad Rifqi Ma'ruf 
+
+NRP : 5025221060 
+
 Departemen : Teknik Informatika
 
 Program ini ditujukan untuk memenuhi KPP Programming pada ukm Robotika ITS.
